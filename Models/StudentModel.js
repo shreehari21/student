@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-
 let studentSchema = new mongoose.Schema({
   Student_name: {
     type:String,
